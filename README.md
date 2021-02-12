@@ -17,3 +17,6 @@ In the second, we added employee number, first and last name, birth date, start 
 - Software : PostgresSQL Version 12
 - Data : [Pewlett-Hackard-Analysis](/Pewlett-Hackard-Analysis/Data)
 
+
+## Results 
+
