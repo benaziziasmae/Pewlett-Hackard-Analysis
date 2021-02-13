@@ -56,7 +56,7 @@ Three tables was created in this deliverable.
 
 ### Deliverable 2
 
-In this deliverable we created only one table that holds the employee eligible for mentorship program by filtering on the employees born in 1965 and have current roles with no termination dates. The breakdown for this analysis is:
+In this deliverable we created only one table that holds the employee eligible for mentorship program by filtering on the employees born in 1965 and have current roles with no termination dates. 
 
 [mentorship_eligibilty](/Data/mentorship_eligibilty.csv)
 
