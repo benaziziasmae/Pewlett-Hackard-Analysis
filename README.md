@@ -50,7 +50,8 @@ Three tables was created in this deliverable.
 
 ***Analysis of Deliverable 1***
 
-- Almost a third of the retirees are Senior Engineers, while the other third includes the rest of the Senior Staff.
+- There are 90 398 employee who are likely to retire soon
+Amost a third of the retirees are Senior Engineers, while the other third includes the rest of the Senior Staff.
 - Only 2 Managers are retiring.
 - The rest of the count is dispatched between Engineer, Staff, Technique Leader and Assistant Engineer.
 - As a result, The hiring priority of Pewlett-Hackard should be focused on replacing the Senior Engineer and Senior Staff positions.
