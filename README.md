@@ -88,6 +88,9 @@ Using the same logic for the rest of the titles we came up with the following fi
 - One for 58 new technique leader 
 - One for 27 new assistant engineer
 
-Giving those results we can say that it's too much work for the existing employee to mentor the huge number of the new employye 
+Giving those results, we can say that it's a very big amount of work for the existing employee in order to mentor the the new employee joigning the company.
 
-As a results, if we 
+As a results, If we change to criteria for the mentorship program to employees born between 1962 and 1965 those numbers drop to one mentor for every 1 to 2 new hired employee approximatly.
+By changing the pool of eligible employees, this program has a strong chance to succeed and to give better results. More employees will be incentivized to mentor if they are only mentoring 1 to 2 people instead of having 50+ people. New employee will obtain more information from a one to one metoring compared to a group mentoring that would likely happen in the first situation.
+
+
