@@ -23,10 +23,16 @@ In the second, we added employee number, first and last name, birth date, start 
 ### Deliverable 1
 
 Three tables was created in this deliverable.
-1- in the first table 
 
-1- 1st e that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955.
+1- The first table holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955.
 
 [Retirement_titles](/Data/retirement_titles.csv)
 
-Ad then we 
+![Retirement_titles](/Data/retirement_titles.png)
+
+2- The second table we removed duplicates titles that the emplyee may have switched titles over the years and kept only the most recent title of each employee.
+
+[unique_titles](/Data/unique_titles.csv)
+![unique_titles](/Data/unique_titles.png)
+
+3- the third one 
