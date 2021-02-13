@@ -19,6 +19,12 @@ In the second, we added employee number, first and last name, birth date, start 
 - All the Data : [Pewlett-Hackard-Analysis](/Pewlett-Hackard-Analysis/Data)
 
 
+## Storage of the Data
+
+Pewlett Hackard currently stores their employee data in 6 different csv files. Here is the entity relationship diagram of those datasets.
+
+![EmployeeDB](/Pewlett-Hackard-Analysis/EmployeeDB.png)
+
 ## Results 
 ### Deliverable 1
 
