@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-Build Employee Database with PostgreSQL and perform SQL queries to explore and analysis data by applying skills of Data Modeling, Data Engineer and Data Analysis.
+Build Employee Database with PostgreSQL and perform SQL queries to explore and analysis data.
 
 ## Overview of the analysis
 
@@ -12,14 +12,13 @@ Within the first table, we included information such as employee number, first a
 
 In the second, we added employee number, first and last name, birth date, start and end date, and position title.
 
-
 ## Resources
+
 - Software : PostgresSQL Version 12
 - Data : [Pewlett-Hackard-Analysis](/Pewlett-Hackard-Analysis/Data)
 
 
 ## Results 
-
 ### Deliverable 1
 
 Three tables was created in this deliverable.
@@ -45,6 +44,8 @@ Three tables was created in this deliverable.
 ***Analysis of Deliverable 1***
 
 
+
+
 ### Deliverable 2
 
 In this deliverable we created only one table that holds the employee eligible for mentorship program.
@@ -53,3 +54,5 @@ In this deliverable we created only one table that holds the employee eligible f
 
 ![mentorship_eligiblity](/Data/mentorship_eligiblity.PNG)
 
+
+***Analysis of Deliverable 2***
