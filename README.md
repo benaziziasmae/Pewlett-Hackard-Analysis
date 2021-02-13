@@ -93,4 +93,6 @@ Giving those results, we can say that it's a very big amount of work for the exi
 As a results, If we change to criteria for the mentorship program to employees born between 1962 and 1965 those numbers drop to one mentor for every 1 to 2 new hired employee approximatly.
 By changing the pool of eligible employees, this program has a strong chance to succeed and to give better results. More employees will be incentivized to mentor if they are only mentoring 1 to 2 people instead of having 50+ people. New employee will obtain more information from a one to one metoring compared to a group mentoring that would likely happen in the first situation.
 
+below the updated mentorship_program list
 
+[mentorship_program_updated](/Data/mentorship_program_updated.csv)
