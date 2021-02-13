@@ -41,3 +41,14 @@ Three tables was created in this deliverable.
 [retiring_titles](/Data/retiring_titles.csv)
 
 ![retiring_titles](/Data/retiring_titles.PNG)
+
+***Analysis of Deliverable 1***
+
+
+### Deliverable 2
+
+In this deliverable we created only one table that holds the employee eligible for mentorship program.
+
+[mentorship_eligibilty](/Data/mentorship_eligibilty.csv)
+
+![mentorship_eligiblity](/Data/mentorship_eligiblity.PNG)
