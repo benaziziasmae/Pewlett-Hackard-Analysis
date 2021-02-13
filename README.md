@@ -30,10 +30,14 @@ Three tables was created in this deliverable.
 
 ![Retirement_titles](/Data/retirement_titles.PNG)
 
-2- The second table we removed duplicates titles that the emplyee may have switched titles over the years and kept only the most recent title of each employee.
+2- The second table we removed duplicates titles that the employee may have switched over the years and kept only the most recent title of each employee.
 
 [unique_titles](/Data/unique_titles.csv)
 
 ![unique_titles](/Data/unique_titles.PNG)
 
-3- the third one 
+3- The third one retrieved the number of employees by their most recent job title who are about to retire.
+
+[retiring_titles](/data/retiring_titles.csv)
+
+![retiring_titles](/data/retiring_titles.PNG)
