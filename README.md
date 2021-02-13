@@ -38,6 +38,6 @@ Three tables was created in this deliverable.
 
 3- The third one retrieved the number of employees by their most recent job title who are about to retire.
 
-[retiring_titles](/data/retiring_titles.csv)
+[retiring_titles](/Data/retiring_titles.csv)
 
-![retiring_titles](/data/retiring_titles.PNG)
+![retiring_titles](/Data/retiring_titles.PNG)
