@@ -50,15 +50,15 @@ Three tables was created in this deliverable.
 
 ***Analysis of Deliverable 1***
 
-- There are 90 398 employee who are likely to retire soon
-Amost a third of the retirees are Senior Engineers, while the other third includes the rest of the Senior Staff.
-- Only 2 Managers are retiring.
-- The rest of the count is dispatched between Engineer, Staff, Technique Leader and Assistant Engineer.
+- There are 90 398 employee who are likely to retire soon.
+- Almost a third of the retirees are Senior Engineers 29 414, while the other third includes the rest of the Senior Staff 28 254.
+- Only 2 Managers are retiring and need to be replaced.
+- The rest of the count is dispatched between Engineer 14 222, Staff 12 243, Technique Leader 4502 and Assistant Engineer 1761.
 - As a result, The hiring priority of Pewlett-Hackard should be focused on replacing the Senior Engineer and Senior Staff positions.
 
 ### Deliverable 2
 
-In this deliverable we created only one table that holds the employee eligible for mentorship program.
+In this deliverable we created only one table that holds the employee eligible for mentorship program by filtering on the employees born in 1965 and have current roles with no termination dates. The breakdown for this analysis is:
 
 [mentorship_eligibilty](/Data/mentorship_eligibilty.csv)
 
@@ -67,4 +67,16 @@ In this deliverable we created only one table that holds the employee eligible f
 
 ***Analysis of Deliverable 2***
 
-From the results above, 
+The breakdown for this analysis is:
+
+- There are 1550 employee eligible for the mentorship program dispatched as the following:
+  - 63 Assistant Engineer 
+  - 400 engineer
+  - 285 Senior engineer
+  - 430 Senior staff
+  - 294 Staff
+  - 77 Technique leader
+  - There is no manager eligible for this program!
+
+## Summary
+
