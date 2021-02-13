@@ -6,12 +6,10 @@ Build Employee Database with PostgreSQL and perform SQL queries to explore and a
 
 The purpose of this analysis is to create two tables:
 - The first one to determine the number of retiring employees and their position titles.
-- And the seconde one to identify employees who are eligible to participate in a mentorship program. 
+- And the second one to identify employees who are eligible to participate in a mentorship program. 
 - Then prepare a report that summarizes the analysis that will help Boby's manager for the "silver tsunami" wave as many current employee reach retirement age.
 
-Within the first table, we included information such as employee number, first and last name, position title, and start and end date. 
-
-In the second, we added employee number, first and last name, birth date, start and end date, and position title.
+Within the first table, we included information such as employee number, first and last name, position title, and start and end date. In the second, we added employee number, first and last name, birth date, start and end date, and position title.
 
 ## Resources
 
