@@ -78,3 +78,16 @@ The breakdown for this analysis is:
 
 ## Summary
 
+By comparing the results of the two deliverables, we can see that there is a 90398 potential positions that need to be filled due to the retirement wave, where there is only 1550 employee currently eligible to mentor the new hired employees. This actively demonstrate that there is one mentor for every 58 new hired employee. 
+
+Using the same logic for the rest of the titles we came up with the following findings:
+- One for 103 new senior engineer
+- One for 65 new senior staff
+- One for 35 new Engineer
+- One for 41 new staff 
+- One for 58 new technique leader 
+- One for 27 new assistant engineer
+
+Giving those results we can say that it's too much work for the existing employee to mentor the huge number of the new employye 
+
+As a results, if we 
