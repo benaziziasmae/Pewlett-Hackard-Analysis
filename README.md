@@ -20,3 +20,13 @@ In the second, we added employee number, first and last name, birth date, start 
 
 ## Results 
 
+### Deliverable 1
+
+Three tables was created in this deliverable.
+1- in the first table 
+
+1- 1st e that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955.
+
+[Retirement_titles](/Data/retirement_titles.csv)
+
+Ad then we 
