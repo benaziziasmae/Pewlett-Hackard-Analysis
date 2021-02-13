@@ -67,7 +67,7 @@ In this deliverable we created only one table that holds the employee eligible f
 
 The breakdown for this analysis is:
 
-- There are 1550 employee eligible for the mentorship program dispatched as the following:
+- There are 1549 employee eligible for the mentorship program dispatched as the following:
   - 63 Assistant Engineer 
   - 400 engineer
   - 285 Senior engineer
@@ -78,7 +78,7 @@ The breakdown for this analysis is:
 
 ## Summary
 
-By comparing the results of the two deliverables, we can see that there is a 90398 potential positions that need to be filled due to the retirement wave, where there is only 1550 employee currently eligible to mentor the new hired employees. This actively demonstrate that there is one mentor for every 58 new hired employee. 
+By comparing the results of the two deliverables, we can see that there is a 90398 potential positions that need to be filled due to the retirement wave, where there is only 1549 employee currently eligible to mentor the new hired employees. This actively demonstrate that there is one mentor for every 58 new hired employee. 
 
 Using the same logic for the rest of the titles we came up with the following findings:
 - One for 103 new senior engineer
